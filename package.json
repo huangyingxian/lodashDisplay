@@ -1,0 +1,14 @@
+{
+  "name": "lodashdisplay",
+  "version": "1.0.0",
+  "description": "dispaly lodash npm modules use ways",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "492753097@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
